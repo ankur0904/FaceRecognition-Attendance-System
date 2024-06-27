@@ -1,3 +1,7 @@
+
+
+https://github.com/ankur0904/FaceRecognition-Attendance-System/assets/98346896/21b6edeb-7577-43d0-9c04-c35cc46c8016
+
 # FaceRecognition Attendance System
 
 This project is an automatic attendance system that uses facial recognition technology to mark attendance in real-time. The system captures images from a webcam, detects and recognizes faces, and logs attendance details in a CSV file.
